@@ -13,6 +13,7 @@
 
 /* Style the top navigation bar */
 .navbar {
+  padding: 80px; /* some padding */
   overflow: hidden; /* Hide overflow */
   background-color: #333; /* Dark background color */
 }
